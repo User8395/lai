@@ -1,10 +1,11 @@
 {
-    "apps": [
-        {
-            "name": "hello-world",
-            "version": "0.0.0",
-            "summary": "A test app for LAS",
-            "description": "This app is just a test for LAS"
-        }
-    ]
+  "apps": [
+    {
+      "name": "hello-world",
+      "latestVersion": "0.0.0",
+      "oldVersions": [],
+      "summary": "Test app",
+      "description": "A test app for LAS"
+    }
+  ]
 }
