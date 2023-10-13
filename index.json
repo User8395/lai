@@ -2,6 +2,7 @@
   "apps": [
     {
       "name": "hello-world",
+      "author": "User8395",
       "latestVersion": "0.0.0",
       "oldVersions": [],
       "summary": "Test app",
