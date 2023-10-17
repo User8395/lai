@@ -1,4 +1,5 @@
 {
+    "type": "app",
     "latestVersion": "0.0.0",
     "olderVersions": ["none"],
     "desktopFile": "hello-world.desktop",
