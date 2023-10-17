@@ -1,4 +1,6 @@
 {
     "latestVersion": "0.0.0",
-    "olderVersions": ["none"]
+    "olderVersions": ["none"],
+    "desktopFile": "hello-world.desktop",
+    "install": "user"
 }
