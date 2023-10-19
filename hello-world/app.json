@@ -3,5 +3,6 @@
     "latestVersion": "0.0.0",
     "olderVersions": ["none"],
     "desktopFile": "hello-world.desktop",
-    "install": "user"
+    "install": "user",
+    "executables": ["hello-world"]
 }
