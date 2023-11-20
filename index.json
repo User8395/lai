@@ -4,9 +4,17 @@
       "name": "hello-world",
       "author": "User8395",
       "latestVersion": "0.0.0",
-      "oldVersions": [],
+      "oldVersions": ["none"],
       "summary": "Test app",
       "description": "A test app for LAS"
-    }
+    },
+    {
+      "name": "hello-again-world",
+      "author": "User8395",
+      "latestVersion": "0.0.0",
+      "oldVersions": ["none"],
+      "summary": "Test app",
+      "description": "A test app for LAS"
+    } 
   ]
 }

@@ -1,7 +1,7 @@
 {
     "type": "app",
     "latestVersion": "0.0.0",
-    "olderVersions": ["none"],
+    "oldVersions": ["none"],
     "desktopFile": "hello-again-world.desktop",
     "install": "user",
     "executables": ["hello-again-world"]
